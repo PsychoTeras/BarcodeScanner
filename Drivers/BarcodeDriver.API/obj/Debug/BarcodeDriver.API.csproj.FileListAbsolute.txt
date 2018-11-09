@@ -1,0 +1,6 @@
+D:\Programming\_Upwork\BarcodeScanner\BarcodeDriver.API\obj\Debug\BarcodeDriver.API.csproj.CoreCompileInputs.cache
+D:\Programming\_Upwork\BarcodeScanner\BarcodeDriver.API\obj\Debug\BarcodeDriver.API.dll
+D:\Programming\_Upwork\BarcodeScanner\BarcodeDriver.API\obj\Debug\BarcodeDriver.API.pdb
+D:\Programming\_Upwork\BarcodeScanner\BarcodeDriver.API\obj\Debug\BarcodeDriver.API.csprojAssemblyReference.cache
+D:\Programming\_Upwork\BarcodeScanner\Drivers\_bin\BarcodeDriver.API.dll
+D:\Programming\_Upwork\BarcodeScanner\Drivers\_bin\BarcodeDriver.API.pdb

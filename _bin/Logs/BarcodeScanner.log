@@ -1,0 +1,78 @@
+===========================================================================
+[18-11-09 09:23:40] User 'anonymous' was logged in
+[18-11-09 09:23:40] Initialize barcode drivers... 
+[18-11-09 09:23:40] 1 camera(s) found:
+[18-11-09 09:23:40] ZXing.Net based driver
+[18-11-09 09:23:40] Prepare camera... 
+[18-11-09 09:23:40] 1 camera(s) found:
+[18-11-09 09:23:40] USB2.0 VGA UVC WebCam
+[18-11-09 09:23:40] Load settings for user 'default'... 
+[18-11-09 09:23:40] done
+[18-11-09 09:23:40] New camera settings applied:
+[18-11-09 09:23:40] camera: USB2.0 VGA UVC WebCam
+[18-11-09 09:23:40] frame size: 320 x 240
+[18-11-09 09:23:40] Camera 'USB2.0 VGA UVC WebCam' was started
+[18-11-09 09:23:42] Scanning was started
+[18-11-09 09:23:46] Barcode was recognized: 'Datascan Font Service Ltd
+First Floor, 2 Wren Avenue
+London NW2 6UH
+England'
+[18-11-09 09:23:47] Server response: '{
+  "AcceptDate": "2018-11-09T21:23:46.8462333+02:00",
+  "Result": "Successful",
+  "Message": "anonymous/Datascan Font Service Ltd\r\nFirst Floor, 2 Wren Avenue\r\nLondon NW2 6UH\r\nEngland"
+}'
+[18-11-09 09:24:16] Scanning was stopped
+[18-11-09 09:24:16] Scanning was started
+[18-11-09 09:24:22] Barcode was recognized: 'Datascan Font Service Ltd
+First Floor, 2 Wren Avenue
+London NW2 6UH
+England'
+[18-11-09 09:24:23] Server response: '{
+  "AcceptDate": "2018-11-09T21:24:23.4772998+02:00",
+  "Result": "Successful",
+  "Message": "anonymous/Datascan Font Service Ltd\r\nFirst Floor, 2 Wren Avenue\r\nLondon NW2 6UH\r\nEngland"
+}'
+[18-11-09 09:24:28] Scanning was stopped
+[18-11-09 09:24:29] Camera was stopped
+===========================================================================
+[18-11-09 09:25:32] User 'anonymous' was logged in
+[18-11-09 09:25:32] Initialize barcode drivers... 
+[18-11-09 09:25:32] 1 camera(s) found:
+[18-11-09 09:25:32] ZXing.Net based driver
+[18-11-09 09:25:32] Prepare camera... 
+[18-11-09 09:25:32] 1 camera(s) found:
+[18-11-09 09:25:32] USB2.0 VGA UVC WebCam
+[18-11-09 09:25:32] Load settings for user 'default'... 
+[18-11-09 09:25:32] done
+[18-11-09 09:25:32] New camera settings applied:
+[18-11-09 09:25:32] camera: USB2.0 VGA UVC WebCam
+[18-11-09 09:25:32] frame size: 320 x 240
+[18-11-09 09:25:32] Camera 'USB2.0 VGA UVC WebCam' was started
+[18-11-09 09:25:34] Scanning was started
+[18-11-09 09:25:43] Barcode was recognized: 'Datascan Font Service Ltd
+First Floor, 2 Wren Avenue
+London NW2 6UH
+England'
+[18-11-09 09:25:43] Server response: '{
+  "AcceptDate": "2018-11-09T21:25:43.3149819+02:00",
+  "Result": "Successful",
+  "Message": "anonymous/Datascan Font Service Ltd\r\nFirst Floor, 2 Wren Avenue\r\nLondon NW2 6UH\r\nEngland"
+}'
+[18-11-09 09:25:53] Scanning was stopped
+[18-11-09 09:25:54] Camera was stopped
+===========================================================================
+[18-11-09 09:28:30] User 'anonymous' was logged in
+[18-11-09 09:28:30] Initialize barcode drivers... 
+[18-11-09 09:28:30] 1 camera(s) found:
+[18-11-09 09:28:30] ZXing.Net based driver
+[18-11-09 09:28:30] Prepare camera... 
+[18-11-09 09:28:30] 1 camera(s) found:
+[18-11-09 09:28:30] USB2.0 VGA UVC WebCam
+[18-11-09 09:28:30] Load settings for user 'default'... 
+[18-11-09 09:28:30] done
+[18-11-09 09:28:30] New camera settings applied:
+[18-11-09 09:28:30] camera: USB2.0 VGA UVC WebCam
+[18-11-09 09:28:30] frame size: 320 x 240
+[18-11-09 09:28:30] Camera 'USB2.0 VGA UVC WebCam' was started
+[18-11-09 09:28:33] Camera was stopped
