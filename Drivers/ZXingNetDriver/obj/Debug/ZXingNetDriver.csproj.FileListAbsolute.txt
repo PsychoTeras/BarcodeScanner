@@ -1,5 +1,0 @@
-D:\Programming\_Upwork\BarcodeScanner\Drivers\ZXingNetDriver\bin\Debug\ZXingNetDriver.dll
-D:\Programming\_Upwork\BarcodeScanner\Drivers\ZXingNetDriver\bin\Debug\ZXingNetDriver.pdb
-D:\Programming\_Upwork\BarcodeScanner\Drivers\ZXingNetDriver\bin\Debug\BarcodeDriver.API.dll
-D:\Programming\_Upwork\BarcodeScanner\Drivers\ZXingNetDriver\bin\Debug\zxing.dll
-D:\Programming\_Upwork\BarcodeScanner\Drivers\ZXingNetDriver\bin\Debug\BarcodeDriver.API.pdb
