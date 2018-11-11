@@ -1,0 +1,7 @@
+.vs
+_bin
+bin
+obj
+packages
+*.user
+

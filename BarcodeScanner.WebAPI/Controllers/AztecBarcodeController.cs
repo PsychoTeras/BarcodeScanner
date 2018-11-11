@@ -55,7 +55,7 @@ namespace BarcodeScanner.WebAPI.Controllers
             {
                 AssertPostData(user, scannedCodeAztec);
                 string outInfo = user + "/" + scannedCodeAztec;
-                LFactory.Instance.WriteLine(outInfo);
+                LFactory.Instance.WriteLine(LogEvent.Info, outInfo);
 
                 return Ok(ScannedCodeAztecResult.Successful(outInfo));
             }
