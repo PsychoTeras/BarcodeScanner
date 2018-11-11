@@ -302,7 +302,7 @@
             this.cbBarcodeDriver.FormattingEnabled = true;
             this.cbBarcodeDriver.Location = new System.Drawing.Point(125, 14);
             this.cbBarcodeDriver.Name = "cbBarcodeDriver";
-            this.cbBarcodeDriver.Size = new System.Drawing.Size(557, 25);
+            this.cbBarcodeDriver.Size = new System.Drawing.Size(545, 25);
             this.cbBarcodeDriver.TabIndex = 1;
             this.cbBarcodeDriver.SelectedIndexChanged += new System.EventHandler(this.CbBarcodeDriverSelectedIndexChanged);
             // 
@@ -353,7 +353,7 @@
             "http://localhost/BarcodeScanner.WebAPI"});
             this.cbEndpointURLs.Location = new System.Drawing.Point(125, 14);
             this.cbEndpointURLs.Name = "cbEndpointURLs";
-            this.cbEndpointURLs.Size = new System.Drawing.Size(557, 25);
+            this.cbEndpointURLs.Size = new System.Drawing.Size(545, 25);
             this.cbEndpointURLs.TabIndex = 1;
             this.cbEndpointURLs.ButtonClick += new System.EventHandler(this.CbEndpointURLsButtonClick);
             this.cbEndpointURLs.SelectedIndexChanged += new System.EventHandler(this.cbEndpointURLs_SelectedIndexChanged);
@@ -432,7 +432,7 @@
             this.cbCamera.FormattingEnabled = true;
             this.cbCamera.Location = new System.Drawing.Point(125, 14);
             this.cbCamera.Name = "cbCamera";
-            this.cbCamera.Size = new System.Drawing.Size(557, 25);
+            this.cbCamera.Size = new System.Drawing.Size(545, 25);
             this.cbCamera.TabIndex = 1;
             this.cbCamera.SelectedIndexChanged += new System.EventHandler(this.CbCameraSelectedIndexChanged);
             // 
